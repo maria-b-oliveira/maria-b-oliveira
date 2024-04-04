@@ -1,7 +1,5 @@
 ### Oii, sou a Maria e estou estudando para me tornar *full stack python*!
 
-<!--
-
 - 👩‍💻 Ebac
 
 </div>
